@@ -11,7 +11,7 @@
 #         self.val = val
 #         self.next = next
 
-from typing import List, Optional
+from typing import Optional
 
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
